@@ -862,7 +862,9 @@
       "featured_collection_YUFM4a": {
         "type": "featured-collection",
         "custom_css": [
-          ".btn--secondary{background-color:red; border-radius:.3rem;}"
+          ".btn--secondary {background-color: ; border-radius: 0.3rem;}",
+          ".btn{background-color:rd;}",
+          ".btn--small{background-color:ed;}"
         ],
         "settings": {
           "title": "Featured collection",
