@@ -288,7 +288,6 @@
           "1499789718857-2",
           "1499789718857-3"
         ],
-        "disabled": true,
         "settings": {
           "title": "Shop by category",
           "divider": false,
@@ -298,7 +297,6 @@
       },
       "1499790633921": {
         "type": "background-image-text",
-        "disabled": true,
         "settings": {
           "subtitle": "Impressive",
           "title": "Large image with text box",
@@ -520,7 +518,6 @@
       },
       "1525115199973": {
         "type": "blog-posts",
-        "disabled": true,
         "settings": {
           "title": "From the journal",
           "blog": "news",
@@ -536,7 +533,6 @@
       },
       "1525118065355": {
         "type": "map",
-        "disabled": true,
         "settings": {
           "map_title": "Our retail store",
           "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
@@ -548,7 +544,6 @@
       },
       "1525295772132": {
         "type": "featured-collection",
-        "disabled": true,
         "settings": {
           "title": "Featured collection",
           "home_featured_products": "eyewear",
@@ -617,6 +612,7 @@
           "1525886854810",
           "1525911710924"
         ],
+        "custom_css": [],
         "settings": {
           "full_width": false,
           "gutter_size": 19,
@@ -676,6 +672,7 @@
           "1525912530555-0",
           "1525912530555-1"
         ],
+        "disabled": true,
         "settings": {
           "full_width": true,
           "gutter_size": 20,
@@ -806,7 +803,7 @@
           "16111386568c2d3def-2"
         ],
         "settings": {
-          "title": "Testimonials",
+          "title": "Success Stories",
           "align_text": "center",
           "round_images": false,
           "divider": false
@@ -886,10 +883,10 @@
       "1498163293234",
       "featured_collection_YUFM4a",
       "1525912530555",
-      "16111386568c2d3def",
       "1499789718857",
       "1525295772132",
       "1525886124958",
+      "16111386568c2d3def",
       "1611170395dc5e4332",
       "1613155067bae53f29",
       "1499790633921",
