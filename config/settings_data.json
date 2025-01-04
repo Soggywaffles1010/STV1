@@ -778,7 +778,7 @@
           "16111386568c2d3def-0": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+              "testimonial": "<p>⭐⭐⭐⭐⭐</p><p>As a guy who's never really paid much attention to skincare, I was skeptical at first. But this product has made a noticeable difference. My skin feels smoother and less dry, especially during the winter months. It's easy to apply and absorbs quickly. Definitely worth a try.\"</p>",
               "image": "shopify://shop_images/R.png",
               "author": "Customer Joe"
             }
@@ -786,15 +786,17 @@
           "16111386568c2d3def-1": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
+              "testimonial": "<p>⭐⭐⭐⭐⭐</p><p><br/>\"I've been using this moisturizer for a month now, and I can honestly say it's a game-changer. My skin feels hydrated and looks more youthful. The scent is subtle and pleasant, and it doesn't leave my skin feeling greasy. Highly recommend it to anyone looking to up their skincare game.</p>",
+              "image": "shopify://shop_images/4323067.png",
+              "author": "Custome Donald"
             }
           },
           "16111386568c2d3def-2": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
+              "testimonial": "<p>⭐⭐⭐⭐⭐</p><p>This beauty product is a must-have in my daily routine. It has improved the texture of my skin and reduced the appearance of fine lines. I love how lightweight it is, and it doesn't clog my pores. Plus, the packaging is super cute! Will definitely repurchase.</p>",
+              "image": "shopify://shop_images/87-512.webp",
+              "author": "Customer Jessica"
             }
           }
         },
@@ -803,7 +805,6 @@
           "16111386568c2d3def-1",
           "16111386568c2d3def-2"
         ],
-        "disabled": true,
         "settings": {
           "title": "Testimonials",
           "align_text": "center",
@@ -885,13 +886,13 @@
       "1498163293234",
       "featured_collection_YUFM4a",
       "1525912530555",
+      "16111386568c2d3def",
       "1499789718857",
       "1525295772132",
       "1525886124958",
       "1611170395dc5e4332",
       "1613155067bae53f29",
       "1499790633921",
-      "16111386568c2d3def",
       "1525115199973",
       "1525118065355"
     ]
