@@ -139,7 +139,7 @@
           "announcement_compact": true,
           "announcement_above_header": true,
           "toolbar_menu": "",
-          "toolbar_social": false,
+          "toolbar_social": true,
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true
@@ -226,7 +226,7 @@
         "type": "featured-content",
         "settings": {
           "title": "Beauty Beyond Time",
-          "text": "<p>The Secrets of Turan offers a curated selection of premium beauty and skincare essentials. We empower women to embrace their natural beauty and radiate confidence. Discover the secrets to glowing skin and let your beauty shine.</p>",
+          "text": "<p>The Secrets of Turan offers a curated selection of premium beauty and skincare essentials. We empower to embrace our natural beauty and radiate confidence. Discover the secrets to glowing skin and let your beauty shine.</p>",
           "align_text": "center",
           "narrow_column": true,
           "enlarge_text": false,
@@ -451,17 +451,18 @@
           "1524769873765-1": {
             "type": "image",
             "settings": {
-              "top_subheading": "",
-              "title": "New cute tops, \nmore fun accessories.",
+              "top_subheading": "The Secrets of Turan",
+              "title": "FOR MEN",
               "title_size": 80,
-              "subheading": "Even better sales. Limited time only.",
+              "subheading": "Selections of the Finest Men's Essentials",
               "link": "shopify://collections/blouses-tops",
-              "link_text": "Shop Tops",
+              "link_text": "Shop Now",
               "link_2": "shopify://collections/all",
               "link_text_2": "Shop all",
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
-              "focal_point": "center center"
+              "image": "shopify://shop_images/Untitled_design_3.png",
+              "focal_point": "80% 0"
             }
           }
         },
@@ -570,7 +571,7 @@
               "cta_link1": "shopify://collections/shoes",
               "cta_text2": "Shop All",
               "cta_link2": "shopify://collections/all",
-              "video_url": "",
+              "video_url": "https://cdn.pixabay.com/video/2022/01/03/103254-662114533_large.mp4",
               "width": "100",
               "height": 720,
               "text_size": 120,
@@ -635,6 +636,7 @@
               "cta_link1": "shopify://collections/jewelry",
               "cta_text2": "Shop All",
               "cta_link2": "https://afx.life/collections/all",
+              "image": "shopify://shop_images/valeriia-miller-_42NKYROG7g-unsplash.jpg",
               "video_url": "",
               "width": "50",
               "height": 800,
@@ -656,7 +658,8 @@
               "cta_link1": "shopify://collections/self-care",
               "cta_text2": "Shop All",
               "cta_link2": "https://afx.life/collections/all",
-              "video_url": "",
+              "image": "shopify://shop_images/toa-heftiba-GLl6_-L3fxM-unsplash.jpg",
+              "video_url": "https://cdn.pixabay.com/video/2024/05/06/210846_large.mp4",
               "width": "50",
               "height": 500,
               "text_size": 100,
