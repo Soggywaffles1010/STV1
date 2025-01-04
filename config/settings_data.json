@@ -103,8 +103,9 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "desktop_logo_width": 140,
-              "mobile_logo_width": 110
+              "logo": "shopify://shop_images/10g-Body-Pheromone-Perfume-Balm-Long-Lasting-Fragrance-Deodorant-Portable-Perfume-Cologne-Fragrance-For-Women-Skin_d34cbd04-b29c-4940-b8ed-ed7ffc127fc7.webp",
+              "desktop_logo_width": 100,
+              "mobile_logo_width": 60
             }
           },
           "1524770292306": {
@@ -132,7 +133,7 @@
         "settings": {
           "main_menu_link_list": "impulse-menu1",
           "mega_menu_images": true,
-          "main_menu_alignment": "left",
+          "main_menu_alignment": "left-center",
           "header_style": "sticky",
           "sticky_index": false,
           "sticky_collection": false,
@@ -567,9 +568,9 @@
               "subheading": "Limited time",
               "heading": "All shoes on sale",
               "textarea": "Select Shoes - Buy One, Get One FREE!",
-              "cta_text1": "Shop Shoes",
+              "cta_text1": "Shop Now",
               "cta_link1": "shopify://collections/shoes",
-              "cta_text2": "Shop All",
+              "cta_text2": "",
               "cta_link2": "shopify://collections/all",
               "video_url": "https://cdn.pixabay.com/video/2022/01/03/103254-662114533_large.mp4",
               "width": "100",
@@ -585,7 +586,7 @@
           "1525886854810": {
             "type": "sale_collection",
             "settings": {
-              "sale_collection": "blouses-tops",
+              "sale_collection": "all-collections",
               "top_text": "Up to",
               "middle_text": "25% off",
               "bottom_text": "Select products",
@@ -599,7 +600,7 @@
           "1525911710924": {
             "type": "sale_collection",
             "settings": {
-              "sale_collection": "swim",
+              "sale_collection": "all-collections",
               "top_text": "Up to",
               "middle_text": "50% off",
               "bottom_text": "Select products",
@@ -633,13 +634,13 @@
               "heading": "promotion",
               "textarea": "All jewelry items on sale!",
               "cta_text1": "Shop This",
-              "cta_link1": "shopify://collections/jewelry",
+              "cta_link1": "shopify://products/pheromone-solid-perfume-long-lasting-cologne-for-men-and-women",
               "cta_text2": "Shop All",
-              "cta_link2": "https://afx.life/collections/all",
+              "cta_link2": "shopify://products/pheromone-solid-perfume-long-lasting-cologne-for-men-and-women",
               "image": "shopify://shop_images/valeriia-miller-_42NKYROG7g-unsplash.jpg",
               "video_url": "",
               "width": "50",
-              "height": 800,
+              "height": 420,
               "text_size": 100,
               "text_align": "vertical-center horizontal-center",
               "focal_point": "center",
@@ -655,9 +656,9 @@
               "heading": "promotion",
               "textarea": "All beauty items on sale!",
               "cta_text1": "Shop This",
-              "cta_link1": "shopify://collections/self-care",
+              "cta_link1": "shopify://products/pheromone-solid-perfume-long-lasting-cologne-for-men-and-women",
               "cta_text2": "Shop All",
-              "cta_link2": "https://afx.life/collections/all",
+              "cta_link2": "shopify://products/pheromone-solid-perfume-long-lasting-cologne-for-men-and-women",
               "image": "shopify://shop_images/toa-heftiba-GLl6_-L3fxM-unsplash.jpg",
               "video_url": "https://cdn.pixabay.com/video/2024/05/06/210846_large.mp4",
               "width": "50",
@@ -778,7 +779,8 @@
             "type": "testimonial",
             "settings": {
               "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
+              "image": "shopify://shop_images/R.png",
+              "author": "Customer Joe"
             }
           },
           "16111386568c2d3def-1": {
@@ -804,7 +806,7 @@
         "disabled": true,
         "settings": {
           "title": "Testimonials",
-          "align_text": "left",
+          "align_text": "center",
           "round_images": false,
           "divider": false
         }
@@ -863,8 +865,8 @@
         "type": "featured-collection",
         "custom_css": [
           ".btn--secondary {background-color: ; border-radius: 0.3rem;}",
-          ".btn{background-color:rd;}",
-          ".btn--small{background-color:ed;}"
+          ".btn {background-color: rd;}",
+          ".btn--small {background-color: ed;}"
         ],
         "settings": {
           "title": "Featured collection",
