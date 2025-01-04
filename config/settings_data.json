@@ -858,12 +858,25 @@
           "full_width": false,
           "space_around": false
         }
+      },
+      "featured_collection_YUFM4a": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Featured collection",
+          "home_featured_products": "",
+          "per_row": 4,
+          "rows": 1,
+          "mobile_scrollable": true,
+          "view_all": true,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
       "1524769873765",
       "advanced_content_g7zUXL",
       "1498163293234",
+      "featured_collection_YUFM4a",
       "1525912530555",
       "1499789718857",
       "1525295772132",
