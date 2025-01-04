@@ -442,7 +442,7 @@
               "link_text": "Shop Now",
               "link_2": "shopify://collections/all",
               "link_text_2": "Explore Collection",
-              "color_accent": "#000000",
+              "color_accent": "#87eabe",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/Untitled_design_2.png",
               "focal_point": "top center"
@@ -459,7 +459,7 @@
               "link_text": "Shop Now",
               "link_2": "shopify://collections/all",
               "link_text_2": "Shop all",
-              "color_accent": "#000000",
+              "color_accent": "#c1aa28",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/Untitled_design_3.png",
               "focal_point": "80% 0"
@@ -861,6 +861,9 @@
       },
       "featured_collection_YUFM4a": {
         "type": "featured-collection",
+        "custom_css": [
+          ".btn--secondary{background-color:red; border-radius:.3rem;}"
+        ],
         "settings": {
           "title": "Featured collection",
           "home_featured_products": "all-collections",
