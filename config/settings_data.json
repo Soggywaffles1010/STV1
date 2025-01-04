@@ -225,7 +225,7 @@
       "1498163293234": {
         "type": "featured-content",
         "settings": {
-          "title": "Beauty Beyond Time",
+          "title": "",
           "text": "<p>The Secrets of Turan offers a curated selection of premium beauty and skincare essentials. We empower to embrace our natural beauty and radiate confidence. Discover the secrets to glowing skin and let your beauty shine.</p>",
           "align_text": "center",
           "narrow_column": true,
@@ -863,7 +863,7 @@
         "type": "featured-collection",
         "settings": {
           "title": "Featured collection",
-          "home_featured_products": "",
+          "home_featured_products": "all-collections",
           "per_row": 4,
           "rows": 1,
           "mobile_scrollable": true,
