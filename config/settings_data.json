@@ -103,8 +103,8 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify://shop_images/10g-Body-Pheromone-Perfume-Balm-Long-Lasting-Fragrance-Deodorant-Portable-Perfume-Cologne-Fragrance-For-Women-Skin_d34cbd04-b29c-4940-b8ed-ed7ffc127fc7.webp",
-              "desktop_logo_width": 100,
+              "logo": "shopify://shop_images/Asset_2.png",
+              "desktop_logo_width": 150,
               "mobile_logo_width": 60
             }
           },
@@ -434,33 +434,33 @@
             "type": "image",
             "settings": {
               "top_subheading": "Rediscover",
-              "title": "Timeless Beauty",
+              "title": "Luminous Skin",
               "title_size": 80,
-              "subheading": "A Collection of Skin Essentials",
+              "subheading": "Bleaching Soap",
               "link": "shopify://collections/swim",
               "link_text": "Shop Now",
               "link_2": "shopify://collections/all",
               "link_text_2": "Explore Collection",
-              "color_accent": "#87eabe",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/Untitled_design_2.png",
-              "focal_point": "top center"
+              "color_accent": "#ec9192",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/Untitled_design_4.png",
+              "focal_point": "80% 100%"
             }
           },
           "1524769873765-1": {
             "type": "image",
             "settings": {
-              "top_subheading": "The Secrets of Turan",
-              "title": "FOR MEN",
-              "title_size": 80,
-              "subheading": "Selections of the Finest Men's Essentials",
+              "top_subheading": "Luminous",
+              "title": "Sunscreen mist",
+              "title_size": 70,
+              "subheading": "SPF ++50",
               "link": "shopify://collections/blouses-tops",
               "link_text": "Shop Now",
               "link_2": "shopify://collections/all",
               "link_text_2": "Shop all",
-              "color_accent": "#c1aa28",
+              "color_accent": "#ec9192",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/Untitled_design_3.png",
+              "image": "shopify://shop_images/Untitled_design_2_279f5278-f569-422c-b54e-5927220ece02.png",
               "focal_point": "80% 0"
             }
           }
