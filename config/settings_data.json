@@ -253,7 +253,7 @@
           "1499789718857-0": {
             "type": "collection",
             "settings": {
-              "collection": "activewear",
+              "collection": "luminous-collection",
               "title": "",
               "focal_point": "center center"
             }
@@ -261,8 +261,8 @@
           "1499789718857-1": {
             "type": "collection",
             "settings": {
-              "collection": "self-care",
-              "title": "",
+              "collection": "all-collections",
+              "title": "Beauty by Joson",
               "focal_point": "center center"
             }
           },
@@ -541,18 +541,6 @@
           "api_key": "",
           "show_button": true,
           "background_image_position": "center center"
-        }
-      },
-      "1525295772132": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Featured collection",
-          "home_featured_products": "eyewear",
-          "per_row": 5,
-          "rows": 1,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
         }
       },
       "1525886124958": {
@@ -885,7 +873,6 @@
       "featured_collection_YUFM4a",
       "1525912530555",
       "1499789718857",
-      "1525295772132",
       "1525886124958",
       "16111386568c2d3def",
       "1611170395dc5e4332",
